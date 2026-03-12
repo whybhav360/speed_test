@@ -11,10 +11,6 @@ A Flutter application that allows users to measure their internet download and u
 - **Cancel Support**: Option to cancel the test while it is in progress.
 - **Responsive UI**: Intuitive interface built with Flutter.
 
-## Screenshot(s)
-
-
-
 ## Getting Started
 
 ### Prerequisites
@@ -60,3 +56,14 @@ This project uses the following packages:
 Made by Vaibhav Madaan 
 [Github](https://github.com/whybhav360)
 [LinkedIn](https://www.linkedin.com/in/vaibhav360/)
+
+## Screenshot(s)
+
+![Before](https://github.com/user-attachments/assets/489d7d6a-0c00-4596-b51f-649b3b14fcb8)
+
+![After](https://github.com/user-attachments/assets/5ee68d90-5e5e-40ab-b61e-98094222b6e4)
+
+![SaveAsPDF](https://github.com/user-attachments/assets/c73f0941-e71d-4f4c-b2a4-e457b6750a3b)
+
+
+
