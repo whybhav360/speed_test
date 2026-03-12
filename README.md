@@ -59,8 +59,8 @@ Made by Vaibhav Madaan
 
 ## Screenshot(s)
 
-  <img width="284" src="https://github.com/user-attachments/assets/489d7d6a-0c00-4596-b51f-649b3b14fcb8" alt="Before" />
-  <img width="284" src="https://github.com/user-attachments/assets/5ee68d90-5e5e-40ab-b61e-98094222b6e4" alt="After" />
-  <img width="284" src="https://github.com/user-attachments/assets/c73f0941-e71d-4f4c-b2a4-e457b6750a3b" alt="SaveAsPDF" />
+  <img width="234" src="https://github.com/user-attachments/assets/489d7d6a-0c00-4596-b51f-649b3b14fcb8" alt="Before" />
+  <img width="234" src="https://github.com/user-attachments/assets/5ee68d90-5e5e-40ab-b61e-98094222b6e4" alt="After" />
+  <img width="234" src="https://github.com/user-attachments/assets/c73f0941-e71d-4f4c-b2a4-e457b6750a3b" alt="SaveAsPDF" />
 
 
