@@ -186,7 +186,7 @@ class _HomeScreenPageState extends State<HomeScreenPage> {
       children: [
         Text(label, style: const TextStyle(fontSize: 16)),
         Text(
-          '${value.toStringAsFixed(2)}',
+          value.toStringAsFixed(2),
           style: TextStyle(
             fontSize: 28,
             fontWeight: FontWeight.bold,
